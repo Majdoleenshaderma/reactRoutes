@@ -1,0 +1,11 @@
+.car {
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 370px;
+
+    margin-left: 80px;
+    margin-right: 100px;
+    gap: 90px;
+    margin-top: -270px;
+}
